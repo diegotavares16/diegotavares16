@@ -5,7 +5,7 @@
     <b>Bem vindo a minha página!</b><br><br>
     <i>
         Me chamo Diego Tavares.<br>
-        Eu sou graduando em Gestão de Tecnologia da Informação, com formação anterior em Engenharia Civil. Estou fazendo uma transição de carreira para o campo da Tecnologia, área que sempre me apaixonou desde a infância, quando comecei a programar jogos. Atualmente, estou envolvido em diversos projetos acadêmicos para expandir meus conhecimentos e estou extremamente entusiasmado com a oportunidade de concorrer a uma vaga de estágio. Sou uma pessoa dedicada, esforçada e valorizo muito o trabalho em equipe. Estou determinado a buscar conhecimento e me dedicar intensamente a essa área que tanto amo.<br>
+        Eu sou graduando em Gestão de Tecnologia da Informação, com formação anterior em Engenharia Civil. Estou fazendo uma transição de carreira para o campo da Tecnologia, área que sempre me apaixonou desde a infância, quando comecei a programar jogos. Atualmente, estou envolvido em diversos projetos acadêmicos para expandir meus conhecimentos. Sou uma pessoa dedicada, esforçada e valorizo muito o trabalho em equipe. Estou determinado a buscar conhecimento e me dedicar intensamente a essa área que tanto amo.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/diegotavares16/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
